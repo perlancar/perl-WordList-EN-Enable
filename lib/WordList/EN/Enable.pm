@@ -7,7 +7,7 @@ use WordList;
 our @ISA = qw(WordList);
 
 1;
-# ABSTRACT: English country names
+# ABSTRACT: Enable word list
 
 =head1 SEE ALSO
 
