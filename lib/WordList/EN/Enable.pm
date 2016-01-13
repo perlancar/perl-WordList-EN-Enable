@@ -6,6 +6,8 @@ package WordList::EN::Enable;
 use WordList;
 our @ISA = qw(WordList);
 
+# STATS
+
 1;
 # ABSTRACT: Enable word list
 
